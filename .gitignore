@@ -1,0 +1,5 @@
+data/cookies.txt
+log/
+node_modules/
+screenshots/
+sftp-config.json

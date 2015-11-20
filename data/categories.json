@@ -1,0 +1,2042 @@
+{
+  "6": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/6/home-appliances.html",
+    "id": "6",
+    "name": "Home Appliances",
+    "totalResults": 342,
+    "weight": 0.0006920443232130282
+  },
+  "23": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/23/packaging-shipping.html",
+    "id": "23",
+    "name": "Packaging & Shipping",
+    "totalResults": 1283,
+    "weight": 0.0025961779727553076
+  },
+  "30": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/30/security-protection.html",
+    "id": "30",
+    "name": "Security & Protection",
+    "totalResults": 1609,
+    "weight": 0.0032558459533618784
+  },
+  "41": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/41/mechanical-parts-fabrication-services.html",
+    "id": "41",
+    "name": "Mechanical Parts & Fabrication Services",
+    "totalResults": 662,
+    "weight": 0.0013395711753421775
+  },
+  "42": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/42/hardware.html",
+    "id": "42",
+    "name": "Hardware",
+    "totalResults": 2486,
+    "weight": 0.005030474232478328
+  },
+  "43": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/43/machinery.html",
+    "id": "43",
+    "name": "Machinery",
+    "totalResults": 2715,
+    "weight": 0.00549386063603325
+  },
+  "80": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/80/rubber-plastics.html",
+    "id": "80",
+    "name": "Rubber & Plastics",
+    "totalResults": 41,
+    "weight": 8.296437792904724e-05
+  },
+  "125": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/125/garden-supplies.html",
+    "id": "125",
+    "name": "Garden Supplies",
+    "totalResults": 27659,
+    "weight": 0.05596857875950043
+  },
+  "238": {
+    "section": "Food",
+    "url": "http://www.aliexpress.com/category/238/grain-products.html",
+    "id": "238",
+    "name": "Grain Products",
+    "totalResults": 5,
+    "weight": 1.0117607064517956e-05
+  },
+  "289": {
+    "section": "Food",
+    "url": "http://www.aliexpress.com/category/289/coffee.html",
+    "id": "289",
+    "name": "Coffee",
+    "totalResults": 4,
+    "weight": 8.094085651614366e-06
+  },
+  "405": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/405/home-textile.html",
+    "id": "405",
+    "name": "Home Textile",
+    "totalResults": 951,
+    "weight": 0.0019243688636713153
+  },
+  "504": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/504/electronic-data-systems.html",
+    "id": "504",
+    "name": "Electronic Data Systems",
+    "totalResults": 6,
+    "weight": 1.2141128477421548e-05
+  },
+  "515": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/515/electronics-stocks.html",
+    "id": "515",
+    "name": "Electronics Stocks",
+    "totalResults": 1450,
+    "weight": 0.0029341060487102074
+  },
+  "516": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/516/other-electrical-equipment.html",
+    "id": "516",
+    "name": "Other Electrical Equipment",
+    "totalResults": 143,
+    "weight": 0.00028936356204521354
+  },
+  "526": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/526/contactors.html",
+    "id": "526",
+    "name": "Contactors",
+    "totalResults": 22,
+    "weight": 4.451747108387901e-05
+  },
+  "527": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/527/professional-audio-video-lighting.html",
+    "id": "527",
+    "name": "Professional Audio, Video & Lighting",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "528": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/528/batteries.html",
+    "id": "528",
+    "name": "Batteries",
+    "totalResults": 192,
+    "weight": 0.00038851611127748955
+  },
+  "530": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/530/lighting-accessories.html",
+    "id": "530",
+    "name": "Lighting Accessories",
+    "totalResults": 2610,
+    "weight": 0.005281390887678373
+  },
+  "540": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/540/fuses.html",
+    "id": "540",
+    "name": "Fuses",
+    "totalResults": 93,
+    "weight": 0.000188187491400034
+  },
+  "712": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/712/software.html",
+    "id": "712",
+    "name": "Software",
+    "totalResults": 259,
+    "weight": 0.0005240920459420301
+  },
+  "717": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/717/other-computer-products.html",
+    "id": "717",
+    "name": "Other Computer Products",
+    "totalResults": 563,
+    "weight": 0.001139242555464722
+  },
+  "1333": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/1333/other-home-improvement.html",
+    "id": "1333",
+    "name": "Other Home Improvement",
+    "totalResults": 49,
+    "weight": 9.915254923227598e-05
+  },
+  "1417": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/1417/power-tools.html",
+    "id": "1417",
+    "name": "Power Tools",
+    "totalResults": 480,
+    "weight": 0.0009712902781937239
+  },
+  "1420": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/1420/tools.html",
+    "id": "1420",
+    "name": "Tools",
+    "totalResults": 3796,
+    "weight": 0.0076812872833820324
+  },
+  "1504": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/1504/ceiling-lights-fans.html",
+    "id": "1504",
+    "name": "Ceiling Lights & Fans",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "1513": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/1513/sanitary-paper.html",
+    "id": "1513",
+    "name": "Sanitary Paper",
+    "totalResults": 300,
+    "weight": 0.0006070564238710774
+  },
+  "1526": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/1526/lighters-smoking-accessories.html",
+    "id": "1526",
+    "name": "Lighters & Smoking Accessories",
+    "totalResults": 451,
+    "weight": 0.0009126081572195197
+  },
+  "1528": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/1528/clocks.html",
+    "id": "1528",
+    "name": "Clocks",
+    "totalResults": 195,
+    "weight": 0.0003945866755162003
+  },
+  "1537": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/1537/measurement-analysis-instruments.html",
+    "id": "1537",
+    "name": "Measurement & Analysis Instruments",
+    "totalResults": 1302,
+    "weight": 0.002634624879600476
+  },
+  "2112": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/2112/paper.html",
+    "id": "2112",
+    "name": "Paper",
+    "totalResults": 24,
+    "weight": 4.8564513909686193e-05
+  },
+  "2115": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/2115/other-office-school-supplies.html",
+    "id": "2115",
+    "name": "Other Office & School Supplies",
+    "totalResults": 157,
+    "weight": 0.00031769286182586383
+  },
+  "2202": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/2202/books.html",
+    "id": "2202",
+    "name": "Books",
+    "totalResults": 23,
+    "weight": 4.65409924967826e-05
+  },
+  "2621": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/2621/action-toy-figures.html",
+    "id": "2621",
+    "name": "Action & Toy Figures",
+    "totalResults": 474,
+    "weight": 0.0009591491497163023
+  },
+  "2829": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/2829/service-equipment.html",
+    "id": "2829",
+    "name": "Service Equipment",
+    "totalResults": 137,
+    "weight": 0.000277222433567792
+  },
+  "3015": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/3015/roadway-safety.html",
+    "id": "3015",
+    "name": "Roadway Safety",
+    "totalResults": 42,
+    "weight": 8.498789934195084e-05
+  },
+  "3305": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/3305/oral-hygiene.html",
+    "id": "3305",
+    "name": "Oral Hygiene",
+    "totalResults": 871,
+    "weight": 0.001762487150639028
+  },
+  "3306": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/3306/skin-care.html",
+    "id": "3306",
+    "name": "Skin Care",
+    "totalResults": 3650,
+    "weight": 0.007385853157098108
+  },
+  "3708": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/3708/furniture-parts.html",
+    "id": "3708",
+    "name": "Furniture Parts",
+    "totalResults": 58,
+    "weight": 0.0001173642419484083
+  },
+  "3709": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/3709/furniture-making-machinery.html",
+    "id": "3709",
+    "name": "Furniture Making Machinery",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "3710": {
+    "section": "Gifts & Crafts",
+    "url": "http://www.aliexpress.com/category/3710/home-decor.html",
+    "id": "3710",
+    "name": "Home Decor",
+    "totalResults": 21320,
+    "weight": 0.043141476523104565
+  },
+  "3712": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/3712/furniture-accessories.html",
+    "id": "3712",
+    "name": "Furniture Accessories",
+    "totalResults": 87,
+    "weight": 0.00017604636292261244
+  },
+  "3803": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/3803/coin-purses-holders.html",
+    "id": "3803",
+    "name": "Coin Purses & Holders",
+    "totalResults": 4234,
+    "weight": 0.008567589662233806
+  },
+  "3999": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/3999/other-lights-lighting-products.html",
+    "id": "3999",
+    "name": "Other Lights & Lighting Products",
+    "totalResults": 47,
+    "weight": 9.510550640646879e-05
+  },
+  "4001": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/4001/active-components.html",
+    "id": "4001",
+    "name": "Active Components",
+    "totalResults": 18059,
+    "weight": 0.036542773195625954
+  },
+  "4002": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/4002/electronics-production-machinery.html",
+    "id": "4002",
+    "name": "Electronics Production Machinery",
+    "totalResults": 193,
+    "weight": 0.00039053963269039315
+  },
+  "4003": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/4003/electronic-accessories-supplies.html",
+    "id": "4003",
+    "name": "Electronic Accessories & Supplies",
+    "totalResults": 554,
+    "weight": 0.0011210308627485897
+  },
+  "4004": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/4004/optoelectronic-displays.html",
+    "id": "4004",
+    "name": "Optoelectronic Displays",
+    "totalResults": 112,
+    "weight": 0.00022663439824520222
+  },
+  "4005": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/4005/passive-components.html",
+    "id": "4005",
+    "name": "Passive Components",
+    "totalResults": 2667,
+    "weight": 0.005396731608213878
+  },
+  "4099": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/4099/other-electronic-components.html",
+    "id": "4099",
+    "name": "Other Electronic Components",
+    "totalResults": 11599,
+    "weight": 0.023470824868268757
+  },
+  "4103": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/4103/fuse-components.html",
+    "id": "4103",
+    "name": "Fuse Components",
+    "totalResults": 15,
+    "weight": 3.0352821193553872e-05
+  },
+  "4105": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/4105/power-distribution-equipment.html",
+    "id": "4105",
+    "name": "Power Distribution Equipment",
+    "totalResults": 11,
+    "weight": 2.2258735541939506e-05
+  },
+  "82207": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/82207/woodworking-adhesives.html",
+    "id": "82207",
+    "name": "Woodworking Adhesives",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "141902": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141902/generators.html",
+    "id": "141902",
+    "name": "Generators",
+    "totalResults": 7,
+    "weight": 1.4164649890325139e-05
+  },
+  "141903": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141903/insulation-materials-elements.html",
+    "id": "141903",
+    "name": "Insulation Materials & Elements",
+    "totalResults": 394,
+    "weight": 0.000797267436684015
+  },
+  "141904": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141904/wires-cables-cable-assemblies.html",
+    "id": "141904",
+    "name": "Wires, Cables & Cable Assemblies",
+    "totalResults": 271,
+    "weight": 0.0005483743028968733
+  },
+  "141905": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141905/electrical-plugs-sockets.html",
+    "id": "141905",
+    "name": "Electrical Plugs & Sockets",
+    "totalResults": 1499,
+    "weight": 0.0030332585979424833
+  },
+  "141906": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141906/switches.html",
+    "id": "141906",
+    "name": "Switches",
+    "totalResults": 1304,
+    "weight": 0.002638671922426283
+  },
+  "141907": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141907/transformers.html",
+    "id": "141907",
+    "name": "Transformers",
+    "totalResults": 3,
+    "weight": 6.070564238710774e-06
+  },
+  "141909": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141909/relays.html",
+    "id": "141909",
+    "name": "Relays",
+    "totalResults": 537,
+    "weight": 0.0010866309987292285
+  },
+  "141911": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141911/power-supplies.html",
+    "id": "141911",
+    "name": "Power Supplies",
+    "totalResults": 377,
+    "weight": 0.000762867572664654
+  },
+  "141913": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141913/power-accessories.html",
+    "id": "141913",
+    "name": "Power Accessories",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "141914": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/141914/circuit-breakers.html",
+    "id": "141914",
+    "name": "Circuit Breakers",
+    "totalResults": 39,
+    "weight": 7.891733510324007e-05
+  },
+  "150302": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/150302/outdoor-furniture.html",
+    "id": "150302",
+    "name": "Outdoor Furniture",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "150303": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/150303/home-furniture.html",
+    "id": "150303",
+    "name": "Home Furniture",
+    "totalResults": 184,
+    "weight": 0.0003723279399742608
+  },
+  "150306": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/150306/furniture-hardware.html",
+    "id": "150306",
+    "name": "Furniture Hardware",
+    "totalResults": 588,
+    "weight": 0.0011898305907873117
+  },
+  "150399": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/150399/other-furniture.html",
+    "id": "150399",
+    "name": "Other Furniture",
+    "totalResults": 14,
+    "weight": 2.8329299780650278e-05
+  },
+  "150401": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/150401/outdoor-lighting.html",
+    "id": "150401",
+    "name": "Outdoor Lighting",
+    "totalResults": 554,
+    "weight": 0.0011210308627485897
+  },
+  "150402": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/150402/light-bulbs.html",
+    "id": "150402",
+    "name": "Light Bulbs",
+    "totalResults": 3733,
+    "weight": 0.007553805434369107
+  },
+  "150407": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/150407/electronic-signs.html",
+    "id": "150407",
+    "name": "Electronic Signs",
+    "totalResults": 9,
+    "weight": 1.821169271613232e-05
+  },
+  "150412": {
+    "section": "Electronic Components & Supplies",
+    "url": "http://www.aliexpress.com/category/150412/el-products.html",
+    "id": "150412",
+    "name": "EL Products",
+    "totalResults": 146,
+    "weight": 0.00029543412628392436
+  },
+  "150512": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/150512/electronic-instrument-enclosures.html",
+    "id": "150512",
+    "name": "Electronic & Instrument Enclosures",
+    "totalResults": 21,
+    "weight": 4.249394967097542e-05
+  },
+  "152404": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/152404/luggage-travel-bags.html",
+    "id": "152404",
+    "name": "Luggage & Travel Bags",
+    "totalResults": 190,
+    "weight": 0.00038446906845168233
+  },
+  "152405": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/152405/wallets.html",
+    "id": "152405",
+    "name": "Wallets",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "152409": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/152409/bag-parts-accessories.html",
+    "id": "152409",
+    "name": "Bag Parts & Accessories",
+    "totalResults": 718,
+    "weight": 0.0014528883744647787
+  },
+  "211106": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/211106/desk-accessories-organizer.html",
+    "id": "211106",
+    "name": "Desk Accessories & Organizer",
+    "totalResults": 213,
+    "weight": 0.000431010060948465
+  },
+  "211111": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/211111/painting-supplies.html",
+    "id": "211111",
+    "name": "Painting Supplies",
+    "totalResults": 308,
+    "weight": 0.0006232445951743061
+  },
+  "212002": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/212002/presentation-boards.html",
+    "id": "212002",
+    "name": "Presentation Boards",
+    "totalResults": 436,
+    "weight": 0.0008822553360259658
+  },
+  "361120": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/361120/pocket-fob-watches.html",
+    "id": "361120",
+    "name": "Pocket & Fob Watches",
+    "totalResults": 94,
+    "weight": 0.00019021101281293759
+  },
+  "380230": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/380230/phone-bags-cases.html",
+    "id": "380230",
+    "name": "Phone Bags & Cases",
+    "totalResults": 45028,
+    "weight": 0.09111512218022291
+  },
+  "390501": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/390501/led-lighting.html",
+    "id": "390501",
+    "name": "LED Lighting",
+    "totalResults": 779,
+    "weight": 0.0015763231806518977
+  },
+  "390503": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/390503/portable-lighting.html",
+    "id": "390503",
+    "name": "Portable Lighting",
+    "totalResults": 562,
+    "weight": 0.0011372190340518183
+  },
+  "660103": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/660103/makeup.html",
+    "id": "660103",
+    "name": "Makeup",
+    "totalResults": 78860,
+    "weight": 0.15957489862157723
+  },
+  "660302": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/660302/shaving-hair-removal.html",
+    "id": "660302",
+    "name": "Shaving & Hair Removal",
+    "totalResults": 728,
+    "weight": 0.0014731235885938145
+  },
+  "5090301": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/5090301/mobile-phones.html",
+    "id": "5090301",
+    "name": "Mobile Phones",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "14190403": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/14190403/wiring-accessories.html",
+    "id": "14190403",
+    "name": "Wiring Accessories",
+    "totalResults": 346,
+    "weight": 0.0007001384088646426
+  },
+  "14190406": {
+    "section": "Electrical Equipment & Supplies",
+    "url": "http://www.aliexpress.com/category/14190406/connectors-terminals.html",
+    "id": "14190406",
+    "name": "Connectors & Terminals",
+    "totalResults": 5462,
+    "weight": 0.011052473957279416
+  },
+  "39050501": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/39050501/book-lights.html",
+    "id": "39050501",
+    "name": "Book Lights",
+    "totalResults": 211,
+    "weight": 0.00042696301812265776
+  },
+  "39050508": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/39050508/night-lights.html",
+    "id": "39050508",
+    "name": "Night Lights",
+    "totalResults": 509,
+    "weight": 0.001029972399167928
+  },
+  "100001118": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/100001118/baby-care.html",
+    "id": "100001118",
+    "name": "Baby Care",
+    "totalResults": 453,
+    "weight": 0.0009166552000453269
+  },
+  "100001199": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/100001199/plastic-furniture.html",
+    "id": "100001199",
+    "name": "Plastic Furniture",
+    "totalResults": 17,
+    "weight": 3.4399864019361056e-05
+  },
+  "100001203": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/100001203/children-furniture.html",
+    "id": "100001203",
+    "name": "Children Furniture",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "100001206": {
+    "section": "Furniture",
+    "url": "http://www.aliexpress.com/category/100001206/folding-furniture.html",
+    "id": "100001206",
+    "name": "Folding Furniture",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "100001606": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/100001606/women-shoes.html",
+    "id": "100001606",
+    "name": "Women's Shoes",
+    "totalResults": 4,
+    "weight": 8.094085651614366e-06
+  },
+  "100001615": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/100001615/men-shoes.html",
+    "id": "100001615",
+    "name": "Men's Shoes",
+    "totalResults": 4,
+    "weight": 8.094085651614366e-06
+  },
+  "100001622": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/100001622/baby-toys.html",
+    "id": "100001622",
+    "name": "Baby Toys",
+    "totalResults": 252,
+    "weight": 0.000509927396051705
+  },
+  "100001623": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/100001623/outdoor-fun-sports.html",
+    "id": "100001623",
+    "name": "Outdoor Fun & Sports",
+    "totalResults": 433,
+    "weight": 0.0008761847717872551
+  },
+  "100001625": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/100001625/learning-education.html",
+    "id": "100001625",
+    "name": "Learning & Education",
+    "totalResults": 2892,
+    "weight": 0.005852023926117186
+  },
+  "100001626": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/100001626/classic-toys.html",
+    "id": "100001626",
+    "name": "Classic Toys",
+    "totalResults": 22589,
+    "weight": 0.045709325196079224
+  },
+  "100001629": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/100001629/electronic-toys.html",
+    "id": "100001629",
+    "name": "Electronic Toys",
+    "totalResults": 41,
+    "weight": 8.296437792904724e-05
+  },
+  "100001663": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/100001663/diecasts-toy-vehicles.html",
+    "id": "100001663",
+    "name": "Diecasts & Toy Vehicles",
+    "totalResults": 106,
+    "weight": 0.00021449326976778069
+  },
+  "100002964": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/100002964/baby-bedding.html",
+    "id": "100002964",
+    "name": "Baby Bedding",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "100002992": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/100002992/festive-party-supplies.html",
+    "id": "100002992",
+    "name": "Festive & Party Supplies",
+    "totalResults": 13293,
+    "weight": 0.02689867014172744
+  },
+  "100003086": {
+    "section": "Men's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/100003086/jeans.html",
+    "id": "100003086",
+    "name": "Jeans",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "100003186": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/100003186/boys-clothing.html",
+    "id": "100003186",
+    "name": "Boys Clothing",
+    "totalResults": 795,
+    "weight": 0.0016086995232583552
+  },
+  "100003199": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/100003199/girls-clothing.html",
+    "id": "100003199",
+    "name": "Girls Clothing",
+    "totalResults": 14251,
+    "weight": 0.02883720365528908
+  },
+  "100003745": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/100003745/notebooks-writing-pads.html",
+    "id": "100003745",
+    "name": "Notebooks & Writing Pads",
+    "totalResults": 5811,
+    "weight": 0.011758682930382769
+  },
+  "100003804": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/100003804/filing-products.html",
+    "id": "100003804",
+    "name": "Filing Products",
+    "totalResults": 92,
+    "weight": 0.0001861639699871304
+  },
+  "100003809": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/100003809/office-binding-supplies.html",
+    "id": "100003809",
+    "name": "Office Binding Supplies",
+    "totalResults": 542,
+    "weight": 0.0010967486057937466
+  },
+  "100003819": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/100003819/cutting-supplies.html",
+    "id": "100003819",
+    "name": "Cutting Supplies",
+    "totalResults": 330,
+    "weight": 0.0006677620662581852
+  },
+  "100003836": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/100003836/adhesives-tapes.html",
+    "id": "100003836",
+    "name": "Adhesives & Tapes",
+    "totalResults": 2035,
+    "weight": 0.004117866075258808
+  },
+  "100004814": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/100004814/bathroom-products.html",
+    "id": "100004814",
+    "name": "Bathroom Products",
+    "totalResults": 5029,
+    "weight": 0.010176289185492161
+  },
+  "100004839": {
+    "section": "Industry & Business",
+    "url": "http://www.aliexpress.com/category/100004839/printing-materials.html",
+    "id": "100004839",
+    "name": "Printing Materials",
+    "totalResults": 45,
+    "weight": 9.10584635806616e-05
+  },
+  "100004950": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/100004950/rain-gear.html",
+    "id": "100004950",
+    "name": "Rain Gear",
+    "totalResults": 272,
+    "weight": 0.0005503978243097769
+  },
+  "100005063": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/100005063/laptop-accessories.html",
+    "id": "100005063",
+    "name": "Laptop Accessories",
+    "totalResults": 2886,
+    "weight": 0.005839882797639764
+  },
+  "100005094": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/100005094/school-educational-supplies.html",
+    "id": "100005094",
+    "name": "School & Educational Supplies",
+    "totalResults": 700,
+    "weight": 0.001416464989032514
+  },
+  "100005259": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005259/fitness-body-building.html",
+    "id": "100005259",
+    "name": "Fitness & Body Building",
+    "totalResults": 441,
+    "weight": 0.0008923729430904837
+  },
+  "100005322": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005322/golf.html",
+    "id": "100005322",
+    "name": "Golf",
+    "totalResults": 175,
+    "weight": 0.0003541162472581285
+  },
+  "100005383": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005383/musical-instruments.html",
+    "id": "100005383",
+    "name": "Musical Instruments",
+    "totalResults": 1463,
+    "weight": 0.0029604118270779543
+  },
+  "100005433": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005433/camping-hiking.html",
+    "id": "100005433",
+    "name": "Camping & Hiking",
+    "totalResults": 3258,
+    "weight": 0.0065926327632399
+  },
+  "100005444": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005444/fishing.html",
+    "id": "100005444",
+    "name": "Fishing",
+    "totalResults": 4737,
+    "weight": 0.009585420932924311
+  },
+  "100005460": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005460/horse-racing.html",
+    "id": "100005460",
+    "name": "Horse Racing",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "100005471": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005471/hunting.html",
+    "id": "100005471",
+    "name": "Hunting",
+    "totalResults": 105,
+    "weight": 0.00021246974835487708
+  },
+  "100005479": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005479/shooting.html",
+    "id": "100005479",
+    "name": "Shooting",
+    "totalResults": 46,
+    "weight": 9.30819849935652e-05
+  },
+  "100005575": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005575/water-sports.html",
+    "id": "100005575",
+    "name": "Water Sports",
+    "totalResults": 453,
+    "weight": 0.0009166552000453269
+  },
+  "100005624": {
+    "section": "Weddings & Events",
+    "url": "http://www.aliexpress.com/category/100005624/wedding-accessories.html",
+    "id": "100005624",
+    "name": "Wedding Accessories",
+    "totalResults": 48,
+    "weight": 9.712902781937239e-05
+  },
+  "100005663": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/100005663/other-sports-entertainment-products.html",
+    "id": "100005663",
+    "name": "Other Sports & Entertainment Products",
+    "totalResults": 733,
+    "weight": 0.0014832411956583324
+  },
+  "100006182": {
+    "section": "Food",
+    "url": "http://www.aliexpress.com/category/100006182/tea.html",
+    "id": "100006182",
+    "name": "Tea",
+    "totalResults": 644,
+    "weight": 0.0013031477899099128
+  },
+  "100006206": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/100006206/pet-products.html",
+    "id": "100006206",
+    "name": "Pet Products",
+    "totalResults": 6501,
+    "weight": 0.013154912705286247
+  },
+  "100006479": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/100006479/kitchen-bath-fixtures.html",
+    "id": "100006479",
+    "name": "Kitchen & Bath Fixtures",
+    "totalResults": 173,
+    "weight": 0.0003500692044323213
+  },
+  "100006749": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/100006749/rings.html",
+    "id": "100006749",
+    "name": "Rings",
+    "totalResults": 55636,
+    "weight": 0.11258063732830421
+  },
+  "200000084": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/200000084/watch-accessories.html",
+    "id": "200000084",
+    "name": "Watch Accessories",
+    "totalResults": 770,
+    "weight": 0.0015581114879357654
+  },
+  "200000097": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200000097/bracelets-bangles.html",
+    "id": "200000097",
+    "name": "Bracelets & Bangles",
+    "totalResults": 64238,
+    "weight": 0.1299869685221009
+  },
+  "200000109": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200000109/necklaces-pendants.html",
+    "id": "200000109",
+    "name": "Necklaces & Pendants",
+    "totalResults": 90749,
+    "weight": 0.183632544699588
+  },
+  "200000139": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200000139/earrings.html",
+    "id": "200000139",
+    "name": "Earrings",
+    "totalResults": 144696,
+    "weight": 0.29279545436149806
+  },
+  "200000161": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200000161/wedding-engagement-jewelry.html",
+    "id": "200000161",
+    "name": "Wedding & Engagement Jewelry",
+    "totalResults": 6073,
+    "weight": 0.01228884554056351
+  },
+  "200000191": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000191/replacement-parts.html",
+    "id": "200000191",
+    "name": "Replacement Parts",
+    "totalResults": 8463,
+    "weight": 0.017125061717403092
+  },
+  "200000293": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000293/lights-indicators.html",
+    "id": "200000293",
+    "name": "Lights & Indicators",
+    "totalResults": 7691,
+    "weight": 0.015562903186641521
+  },
+  "200000322": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000322/diagnostic-tools.html",
+    "id": "200000322",
+    "name": "Diagnostic Tools",
+    "totalResults": 75,
+    "weight": 0.00015176410596776934
+  },
+  "200000369": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000369/car-electronics.html",
+    "id": "200000369",
+    "name": "Car Electronics",
+    "totalResults": 2033,
+    "weight": 0.004113819032433001
+  },
+  "200000406": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000406/rv-parts-accessories.html",
+    "id": "200000406",
+    "name": "RV Parts & Accessories",
+    "totalResults": 3,
+    "weight": 6.070564238710774e-06
+  },
+  "200000407": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000407/atv-parts-accessories.html",
+    "id": "200000407",
+    "name": "ATV Parts & Accessories",
+    "totalResults": 38,
+    "weight": 7.689381369033647e-05
+  },
+  "200000408": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200000408/motorcycle-accessories-parts.html",
+    "id": "200000408",
+    "name": "Motorcycle Accessories & Parts",
+    "totalResults": 2048,
+    "weight": 0.004144171853626555
+  },
+  "200000528": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200000528/baby-boys-clothing.html",
+    "id": "200000528",
+    "name": "Baby Boys Clothing",
+    "totalResults": 754,
+    "weight": 0.001525735145329308
+  },
+  "200000567": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200000567/baby-girls-clothing.html",
+    "id": "200000567",
+    "name": "Baby Girls Clothing",
+    "totalResults": 775,
+    "weight": 0.0015682290950002832
+  },
+  "200000599": {
+    "section": "Men's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000599/accessories.html",
+    "id": "200000599",
+    "name": "Accessories",
+    "totalResults": 4499,
+    "weight": 0.009103822836653258
+  },
+  "200000708": {
+    "section": "Men's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000708/underwear.html",
+    "id": "200000708",
+    "name": "Underwear",
+    "totalResults": 175,
+    "weight": 0.0003541162472581285
+  },
+  "200000724": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000724/accessories.html",
+    "id": "200000724",
+    "name": "Accessories",
+    "totalResults": 29621,
+    "weight": 0.05993872777161728
+  },
+  "200000773": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000773/intimates.html",
+    "id": "200000773",
+    "name": "Intimates",
+    "totalResults": 7342,
+    "weight": 0.014856694213538168
+  },
+  "200000774": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200000774/maternity.html",
+    "id": "200000774",
+    "name": "Maternity",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200000781": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000781/socks-hosiery.html",
+    "id": "200000781",
+    "name": "Socks & Hosiery",
+    "totalResults": 2850,
+    "weight": 0.005767036026775235
+  },
+  "200000782": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000782/suits-sets.html",
+    "id": "200000782",
+    "name": "Suits & Sets",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200000784": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000784/swimwear.html",
+    "id": "200000784",
+    "name": "Swimwear",
+    "totalResults": 11,
+    "weight": 2.2258735541939506e-05
+  },
+  "200000785": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200000785/tops-tees.html",
+    "id": "200000785",
+    "name": "Tops & Tees",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "200001095": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200001095/sports-clothing.html",
+    "id": "200001095",
+    "name": "Sports Clothing",
+    "totalResults": 513,
+    "weight": 0.0010380664848195424
+  },
+  "200001270": {
+    "section": "Novelty & Special Use",
+    "url": "http://www.aliexpress.com/category/200001270/costumes-accessories.html",
+    "id": "200001270",
+    "name": "Costumes & Accessories",
+    "totalResults": 94,
+    "weight": 0.00019021101281293759
+  },
+  "200001271": {
+    "section": "Novelty & Special Use",
+    "url": "http://www.aliexpress.com/category/200001271/exotic-apparel.html",
+    "id": "200001271",
+    "name": "Exotic Apparel",
+    "totalResults": 433,
+    "weight": 0.0008761847717872551
+  },
+  "200001648": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200001648/blouses-shirts.html",
+    "id": "200001648",
+    "name": "Blouses & Shirts",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200002086": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/200002086/kitchen-dining-bar.html",
+    "id": "200002086",
+    "name": "Kitchen,Dining & Bar",
+    "totalResults": 16833,
+    "weight": 0.03406193594340615
+  },
+  "200002101": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200002101/baby-shoes.html",
+    "id": "200002101",
+    "name": "Baby Shoes",
+    "totalResults": 171,
+    "weight": 0.0003460221616065141
+  },
+  "200002124": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/200002124/shoe-accessories.html",
+    "id": "200002124",
+    "name": "Shoe Accessories",
+    "totalResults": 2941,
+    "weight": 0.005951176475349462
+  },
+  "200002136": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/200002136/men-casual-shoes.html",
+    "id": "200002136",
+    "name": "Men's Casual Shoes",
+    "totalResults": 3,
+    "weight": 6.070564238710774e-06
+  },
+  "200002155": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/200002155/women-flats.html",
+    "id": "200002155",
+    "name": "Women's Flats",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200002164": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/200002164/women-casual-shoes.html",
+    "id": "200002164",
+    "name": "Women's Casual Shoes",
+    "totalResults": 3,
+    "weight": 6.070564238710774e-06
+  },
+  "200002253": {
+    "section": "Shoes",
+    "url": "http://www.aliexpress.com/category/200002253/men-flats.html",
+    "id": "200002253",
+    "name": "Men's Flats",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200002255": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200002255/other-phones-telecommunications-products.html",
+    "id": "200002255",
+    "name": "Other Phones & Telecommunications Products",
+    "totalResults": 164,
+    "weight": 0.00033185751171618897
+  },
+  "200002283": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/200002283/novelty-lighting.html",
+    "id": "200002283",
+    "name": "Novelty Lighting",
+    "totalResults": 138,
+    "weight": 0.0002792459549806956
+  },
+  "200002319": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/200002319/computer-components.html",
+    "id": "200002319",
+    "name": "Computer Components",
+    "totalResults": 24,
+    "weight": 4.8564513909686193e-05
+  },
+  "200002320": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/200002320/networking.html",
+    "id": "200002320",
+    "name": "Networking",
+    "totalResults": 84,
+    "weight": 0.00016997579868390167
+  },
+  "200002321": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200002321/storage-devices.html",
+    "id": "200002321",
+    "name": "Storage Devices",
+    "totalResults": 226,
+    "weight": 0.00045731583931621166
+  },
+  "200002342": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/200002342/computer-peripherals.html",
+    "id": "200002342",
+    "name": "Computer Peripherals",
+    "totalResults": 1025,
+    "weight": 0.002074109448226181
+  },
+  "200002361": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/200002361/tablet-accessories.html",
+    "id": "200002361",
+    "name": "Tablet Accessories",
+    "totalResults": 1223,
+    "weight": 0.002474766687981092
+  },
+  "200002394": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200002394/accessories-parts.html",
+    "id": "200002394",
+    "name": "Accessories & Parts",
+    "totalResults": 13741,
+    "weight": 0.027805207734708248
+  },
+  "200002395": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200002395/camera-photo.html",
+    "id": "200002395",
+    "name": "Camera & Photo",
+    "totalResults": 4250,
+    "weight": 0.008599966004840262
+  },
+  "200002396": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200002396/video-games.html",
+    "id": "200002396",
+    "name": "Video Games",
+    "totalResults": 1927,
+    "weight": 0.0038993257626652204
+  },
+  "200002397": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200002397/home-audio-video.html",
+    "id": "200002397",
+    "name": "Home Audio & Video",
+    "totalResults": 349,
+    "weight": 0.0007062089731033534
+  },
+  "200002398": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200002398/portable-audio-video.html",
+    "id": "200002398",
+    "name": "Portable Audio & Video",
+    "totalResults": 2412,
+    "weight": 0.004880733647923462
+  },
+  "200002418": {
+    "section": "Food",
+    "url": "http://www.aliexpress.com/category/200002418/dried-fruit.html",
+    "id": "200002418",
+    "name": "Dried Fruit",
+    "totalResults": 13,
+    "weight": 2.6305778367746687e-05
+  },
+  "200002419": {
+    "section": "Food",
+    "url": "http://www.aliexpress.com/category/200002419/nut-kernel.html",
+    "id": "200002419",
+    "name": "Nut & Kernel",
+    "totalResults": 68,
+    "weight": 0.00013759945607744422
+  },
+  "200002444": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002444/bath-shower.html",
+    "id": "200002444",
+    "name": "Bath & Shower",
+    "totalResults": 285,
+    "weight": 0.0005767036026775236
+  },
+  "200002454": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002454/fragrances-deodorants.html",
+    "id": "200002454",
+    "name": "Fragrances & Deodorants",
+    "totalResults": 176,
+    "weight": 0.0003561397686710321
+  },
+  "200002458": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002458/hair-care-styling.html",
+    "id": "200002458",
+    "name": "Hair Care & Styling",
+    "totalResults": 4693,
+    "weight": 0.009496385990756554
+  },
+  "200002489": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002489/hair-extensions-wigs.html",
+    "id": "200002489",
+    "name": "Hair Extensions & Wigs",
+    "totalResults": 1258,
+    "weight": 0.002545589937432718
+  },
+  "200002496": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002496/health-care.html",
+    "id": "200002496",
+    "name": "Health Care",
+    "totalResults": 6032,
+    "weight": 0.012205881162634463
+  },
+  "200002547": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002547/nails-tools.html",
+    "id": "200002547",
+    "name": "Nails & Tools",
+    "totalResults": 101330,
+    "weight": 0.20504342476952092
+  },
+  "200002569": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200002569/tools-accessories.html",
+    "id": "200002569",
+    "name": "Tools & Accessories",
+    "totalResults": 33507,
+    "weight": 0.06780213198216063
+  },
+  "200002633": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/200002633/models-building-toy.html",
+    "id": "200002633",
+    "name": "Models & Building Toy",
+    "totalResults": 1974,
+    "weight": 0.003994431269071689
+  },
+  "200002636": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/200002636/novelty-gag-toys.html",
+    "id": "200002636",
+    "name": "Novelty & Gag Toys",
+    "totalResults": 1912,
+    "weight": 0.0038689729414716667
+  },
+  "200002639": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/200002639/remote-control-toys.html",
+    "id": "200002639",
+    "name": "Remote Control Toys",
+    "totalResults": 1742,
+    "weight": 0.003524974301278056
+  },
+  "200003009": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/200003009/commercial-lighting.html",
+    "id": "200003009",
+    "name": "Commercial Lighting",
+    "totalResults": 35,
+    "weight": 7.082324945162569e-05
+  },
+  "200003010": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/200003010/other-home-products.html",
+    "id": "200003010",
+    "name": "Other Home Products",
+    "totalResults": 1163,
+    "weight": 0.002353355403206877
+  },
+  "200003013": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200003013/gps-accessories.html",
+    "id": "200003013",
+    "name": "GPS & Accessories",
+    "totalResults": 83,
+    "weight": 0.0001679522772709981
+  },
+  "200003045": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200003045/sex-products.html",
+    "id": "200003045",
+    "name": "Sex Products",
+    "totalResults": 4772,
+    "weight": 0.009656244182375939
+  },
+  "200003132": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200003132/backup-powers.html",
+    "id": "200003132",
+    "name": "Backup Powers",
+    "totalResults": 8,
+    "weight": 1.618817130322873e-05
+  },
+  "200003136": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/200003136/housekeeping-organization.html",
+    "id": "200003136",
+    "name": "Housekeeping & Organization",
+    "totalResults": 9175,
+    "weight": 0.01856580896339045
+  },
+  "200003196": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/200003196/pens-pencils-writing-supplies.html",
+    "id": "200003196",
+    "name": "Pens, Pencils & Writing Supplies",
+    "totalResults": 9110,
+    "weight": 0.018434280071551717
+  },
+  "200003197": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/200003197/labels-indexes-stamps.html",
+    "id": "200003197",
+    "name": "Labels, Indexes & Stamps",
+    "totalResults": 3090,
+    "weight": 0.006252681165872098
+  },
+  "200003198": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/200003198/calendars-planners-cards.html",
+    "id": "200003198",
+    "name": "Calendars, Planners & Cards",
+    "totalResults": 529,
+    "weight": 0.001070442827426
+  },
+  "200003210": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/200003210/professional-lighting.html",
+    "id": "200003210",
+    "name": "Professional Lighting",
+    "totalResults": 47,
+    "weight": 9.510550640646879e-05
+  },
+  "200003225": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/200003225/dolls-stuffed-toys.html",
+    "id": "200003225",
+    "name": "Dolls & Stuffed Toys",
+    "totalResults": 1615,
+    "weight": 0.0032679870818393
+  },
+  "200003226": {
+    "section": "Toys & Hobbies",
+    "url": "http://www.aliexpress.com/category/200003226/puzzles-magic-cubes.html",
+    "id": "200003226",
+    "name": "Puzzles & Magic Cubes",
+    "totalResults": 240,
+    "weight": 0.00048564513909686195
+  },
+  "200003230": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/200003230/building-supplies.html",
+    "id": "200003230",
+    "name": "Building Supplies",
+    "totalResults": 419,
+    "weight": 0.0008478554720066048
+  },
+  "200003232": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/200003232/electrical.html",
+    "id": "200003232",
+    "name": "Electrical",
+    "totalResults": 1695,
+    "weight": 0.0034298687948715874
+  },
+  "200003238": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/200003238/mail-shipping-supplies.html",
+    "id": "200003238",
+    "name": "Mail & Shipping Supplies",
+    "totalResults": 331,
+    "weight": 0.0006697855876710888
+  },
+  "200003292": {
+    "section": "Home Improvement",
+    "url": "http://www.aliexpress.com/category/200003292/basis-material.html",
+    "id": "200003292",
+    "name": "Basis Material",
+    "totalResults": 152,
+    "weight": 0.0003075752547613459
+  },
+  "200003482": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200003482/dresses.html",
+    "id": "200003482",
+    "name": "Dresses",
+    "totalResults": 5,
+    "weight": 1.0117607064517956e-05
+  },
+  "200003491": {
+    "section": "Men's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200003491/socks.html",
+    "id": "200003491",
+    "name": "Socks",
+    "totalResults": 1054,
+    "weight": 0.0021327915692003854
+  },
+  "200003551": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200003551/tattoo-body-art.html",
+    "id": "200003551",
+    "name": "Tattoo & Body Art",
+    "totalResults": 52018,
+    "weight": 0.10525953685641902
+  },
+  "200003570": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200003570/cycling.html",
+    "id": "200003570",
+    "name": "Cycling",
+    "totalResults": 4306,
+    "weight": 0.008713283203962864
+  },
+  "200003575": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/200003575/led-lamps.html",
+    "id": "200003575",
+    "name": "LED Lamps",
+    "totalResults": 306,
+    "weight": 0.0006191975523484989
+  },
+  "200003592": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200003592/safety.html",
+    "id": "200003592",
+    "name": "Safety",
+    "totalResults": 228,
+    "weight": 0.0004613628821420188
+  },
+  "200003594": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200003594/activity-gear.html",
+    "id": "200003594",
+    "name": "Activity & Gear",
+    "totalResults": 61,
+    "weight": 0.00012343480618711908
+  },
+  "200003595": {
+    "section": "Mother & Kids",
+    "url": "http://www.aliexpress.com/category/200003595/feeding.html",
+    "id": "200003595",
+    "name": "Feeding",
+    "totalResults": 253,
+    "weight": 0.0005119509174646086
+  },
+  "200003857": {
+    "section": "Lights & Lighting",
+    "url": "http://www.aliexpress.com/category/200003857/holiday-lighting.html",
+    "id": "200003857",
+    "name": "Holiday  Lighting",
+    "totalResults": 942,
+    "weight": 0.001906157170955183
+  },
+  "200004414": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200004414/other-consumer-electronics.html",
+    "id": "200004414",
+    "name": "Other Consumer Electronics",
+    "totalResults": 2421,
+    "weight": 0.004898945340639595
+  },
+  "200004619": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200004619/interior-accessories.html",
+    "id": "200004619",
+    "name": "Interior Accessories",
+    "totalResults": 3449,
+    "weight": 0.006979125353104487
+  },
+  "200004620": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200004620/exterior-accessories.html",
+    "id": "200004620",
+    "name": "Exterior Accessories",
+    "totalResults": 11121,
+    "weight": 0.02250358163290084
+  },
+  "200004621": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200004621/tools-equipment.html",
+    "id": "200004621",
+    "name": "Tools & Equipment",
+    "totalResults": 210,
+    "weight": 0.00042493949670975416
+  },
+  "200004635": {
+    "section": "Automobiles & Motorcycles",
+    "url": "http://www.aliexpress.com/category/200004635/car-care.html",
+    "id": "200004635",
+    "name": "Car Care",
+    "totalResults": 1201,
+    "weight": 0.002430249216897213
+  },
+  "200004720": {
+    "section": "Office & School Supplies",
+    "url": "http://www.aliexpress.com/category/200004720/office-electronics.html",
+    "id": "200004720",
+    "name": "Office Electronics",
+    "totalResults": 969,
+    "weight": 0.00196079224910358
+  },
+  "200005059": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200005059/racquet-sports.html",
+    "id": "200005059",
+    "name": "Racquet Sports",
+    "totalResults": 17,
+    "weight": 3.4399864019361056e-05
+  },
+  "200005101": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200005101/entertainment.html",
+    "id": "200005101",
+    "name": "Entertainment",
+    "totalResults": 215,
+    "weight": 0.00043505710377427214
+  },
+  "200005143": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200005143/roller-skate-board-scooters.html",
+    "id": "200005143",
+    "name": "Roller,Skate board &Scooters",
+    "totalResults": 34,
+    "weight": 6.879972803872211e-05
+  },
+  "200005156": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200005156/running.html",
+    "id": "200005156",
+    "name": "Running",
+    "totalResults": 173,
+    "weight": 0.0003500692044323213
+  },
+  "200005195": {
+    "section": "Travel and Vacations",
+    "url": "http://www.aliexpress.com/category/200005195/public-transport-discount-cards.html",
+    "id": "200005195",
+    "name": "Public Transport Discount Cards",
+    "totalResults": 4,
+    "weight": 8.094085651614366e-06
+  },
+  "200005212": {
+    "section": "Travel and Vacations",
+    "url": "http://www.aliexpress.com/category/200005212/travel-products.html",
+    "id": "200005212",
+    "name": "Travel Products",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "200005276": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200005276/sneakers.html",
+    "id": "200005276",
+    "name": "Sneakers",
+    "totalResults": 105,
+    "weight": 0.00021246974835487708
+  },
+  "200005280": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200005280/electronic-cigarettes.html",
+    "id": "200005280",
+    "name": "Electronic Cigarettes",
+    "totalResults": 112,
+    "weight": 0.00022663439824520222
+  },
+  "200005298": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200005298/mobile-phone-lcds.html",
+    "id": "200005298",
+    "name": "Mobile Phone LCDs",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200010057": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/200010057/men-bags.html",
+    "id": "200010057",
+    "name": "Men's Bags",
+    "totalResults": 140,
+    "weight": 0.00028329299780650277
+  },
+  "200010063": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/200010063/women-bags.html",
+    "id": "200010063",
+    "name": "Women's Bags",
+    "totalResults": 842,
+    "weight": 0.0017038050296648238
+  },
+  "200010196": {
+    "section": "Consumer Electronics",
+    "url": "http://www.aliexpress.com/category/200010196/smart-electronics.html",
+    "id": "200010196",
+    "name": "Smart Electronics",
+    "totalResults": 104,
+    "weight": 0.0002104462269419735
+  },
+  "200040001": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/200040001/house-ornamentation.html",
+    "id": "200040001",
+    "name": "House Ornamentation",
+    "totalResults": 2331,
+    "weight": 0.004716828413478272
+  },
+  "200066014": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/200066014/kids-baby-bags.html",
+    "id": "200066014",
+    "name": "Kids & Baby's Bags",
+    "totalResults": 299,
+    "weight": 0.0006050329024581738
+  },
+  "200068019": {
+    "section": "Luggage & Bags",
+    "url": "http://www.aliexpress.com/category/200068019/functional-bags.html",
+    "id": "200068019",
+    "name": "Functional Bags",
+    "totalResults": 401,
+    "weight": 0.0008114320865743401
+  },
+  "200074001": {
+    "section": "Health & Beauty",
+    "url": "http://www.aliexpress.com/category/200074001/beauty-essentials.html",
+    "id": "200074001",
+    "name": "Beauty Essentials",
+    "totalResults": 16141,
+    "weight": 0.03266165912567687
+  },
+  "200084017": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200084017/mobile-phone-accessories.html",
+    "id": "200084017",
+    "name": "Mobile Phone Accessories",
+    "totalResults": 80567,
+    "weight": 0.16302904967340365
+  },
+  "200086021": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200086021/mobile-phone-parts.html",
+    "id": "200086021",
+    "name": "Mobile Phone Parts",
+    "totalResults": 1506,
+    "weight": 0.0030474232478328086
+  },
+  "200094001": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200094001/team-sports.html",
+    "id": "200094001",
+    "name": "Team Sports",
+    "totalResults": 469,
+    "weight": 0.0009490315426517843
+  },
+  "200114002": {
+    "section": "Food",
+    "url": "http://www.aliexpress.com/category/200114002/medlar.html",
+    "id": "200114002",
+    "name": "Medlar",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200118008": {
+    "section": "Men's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200118008/bottoms.html",
+    "id": "200118008",
+    "name": "Bottoms",
+    "totalResults": 28,
+    "weight": 5.6658599561300556e-05
+  },
+  "200118010": {
+    "section": "Women's Clothing & Accessories",
+    "url": "http://www.aliexpress.com/category/200118010/bottoms.html",
+    "id": "200118010",
+    "name": "Bottoms",
+    "totalResults": 10,
+    "weight": 2.0235214129035912e-05
+  },
+  "200126001": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200126001/communication-equipments.html",
+    "id": "200126001",
+    "name": "Communication Equipments",
+    "totalResults": 6,
+    "weight": 1.2141128477421548e-05
+  },
+  "200130003": {
+    "section": "Phones & Telecommunications",
+    "url": "http://www.aliexpress.com/category/200130003/mobile-phone-touch-panel.html",
+    "id": "200130003",
+    "name": "Mobile Phone Touch Panel",
+    "totalResults": 20,
+    "weight": 4.0470428258071824e-05
+  },
+  "200132001": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200132001/jewelry-sets-more.html",
+    "id": "200132001",
+    "name": "Jewelry Sets & More",
+    "totalResults": 57002,
+    "weight": 0.11534476757833051
+  },
+  "200154001": {
+    "section": "Home & Garden",
+    "url": "http://www.aliexpress.com/category/200154001/arts-crafts-sewing.html",
+    "id": "200154001",
+    "name": "Arts,Crafts & Sewing",
+    "totalResults": 42950,
+    "weight": 0.08691024468420924
+  },
+  "200154003": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200154003/beads-jewelry-making.html",
+    "id": "200154003",
+    "name": "Beads & Jewelry Making",
+    "totalResults": 35921,
+    "weight": 0.0726869126729099
+  },
+  "200188001": {
+    "section": "Jewelry",
+    "url": "http://www.aliexpress.com/category/200188001/fine-jewelry.html",
+    "id": "200188001",
+    "name": "Fine Jewelry",
+    "totalResults": 1,
+    "weight": 2.0235214129035914e-06
+  },
+  "200214006": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/200214006/men-watches.html",
+    "id": "200214006",
+    "name": "Men's Watches",
+    "totalResults": 165,
+    "weight": 0.0003338810331290926
+  },
+  "200214031": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/200214031/women-watches.html",
+    "id": "200214031",
+    "name": "Women's Watches",
+    "totalResults": 243,
+    "weight": 0.0004917157033355727
+  },
+  "200214043": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/200214043/children-watches.html",
+    "id": "200214043",
+    "name": "Children's Watches",
+    "totalResults": 224,
+    "weight": 0.00045326879649040444
+  },
+  "200214047": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/200214047/lover-watches.html",
+    "id": "200214047",
+    "name": "Lover's Watches",
+    "totalResults": 148,
+    "weight": 0.0002994811691097315
+  },
+  "200214074": {
+    "section": "Watches",
+    "url": "http://www.aliexpress.com/category/200214074/women-bracelet-watches.html",
+    "id": "200214074",
+    "name": "Women's Bracelet Watches",
+    "totalResults": 58,
+    "weight": 0.0001173642419484083
+  },
+  "200214206": {
+    "section": "Computer & Office",
+    "url": "http://www.aliexpress.com/category/200214206/demo-board.html",
+    "id": "200214206",
+    "name": "Demo Board",
+    "totalResults": 92,
+    "weight": 0.0001861639699871304
+  },
+  "200214332": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200214332/sports-bags.html",
+    "id": "200214332",
+    "name": "Sports Bags",
+    "totalResults": 2,
+    "weight": 4.047042825807183e-06
+  },
+  "200214370": {
+    "section": "Sports & Entertainment",
+    "url": "http://www.aliexpress.com/category/200214370/sport-accessories.html",
+    "id": "200214370",
+    "name": "Sport Accessories",
+    "totalResults": 891,
+    "weight": 0.0018029575788971
+  }
+}
