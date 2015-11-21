@@ -1,37 +1,6 @@
 var fs = require('fs');
 var casper = require("casper").create();
 
-// https://gist.github.com/clochix/5967978
-function loadCookies(file) {
-
-  	var cookies = [];
-  	if (fs.exists(file)) {
-
-    	cookies = fs.read(file).split("\n");
-
-    	cookies.forEach(function (cookie) {
-      	
-      		var detail = cookie.split("\t");
-      		var newCookie = {
-		        'name':   detail[5],
-		        'value':  detail[6],
-		        'domain': detail[0],
-		        'path':   detail[2],
-		        'httponly': false,
-		        'secure':   false,
-		        'expires':  (new Date()).getTime() + 3600 * 24 * 30 /* <- expires in 1 month */
-      		};
-      	
-      		phantom.addCookie(newCookie);
-
-    	});
-
-  	}
-
-  	return cookies;
-
-}
-
 function logMessage(msg, metadata) {
 
 	var line = {
@@ -62,7 +31,8 @@ if (typeof casper.cli.options.url === 'undefined') {
 
 var productUrl = casper.cli.options.url;
 
-var cookies = loadCookies('./data/cookies.txt');
+var data = fs.read('./data/cookies.txt');
+phantom.cookies = JSON.parse(data);
 
 var casper = require("casper").create();
 

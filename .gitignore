@@ -1,4 +1,5 @@
 data/cookies.txt
+config/local.json5
 log/
 node_modules/
 screenshots/

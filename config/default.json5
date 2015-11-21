@@ -1,0 +1,10 @@
+{
+	"antigate": {
+		api_key": ""
+	},
+	"aliexpress": {
+		"email": "",
+		"password": ""
+	},
+	"port": 1337
+}
