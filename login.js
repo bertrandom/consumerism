@@ -33,7 +33,7 @@ var spooky = new Spooky({
     },
     casper: {
         logLevel: 'info',
-        verbose: true
+        verbose: false
     }
 }, function (err) {
 
