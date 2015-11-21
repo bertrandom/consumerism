@@ -7,7 +7,7 @@ var stripAnsi = require('strip-ansi');
 
 winston.add(winston.transports.File, { filename: 'log/login.log', colorize: false });
 
-winston.info("Hello");
+winston.info("Fetching authentication credentials...");
 
 var Antigate = require('antigate');
 var ag = new Antigate(config.antigate.api_key);
