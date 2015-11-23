@@ -16,10 +16,10 @@
     "function-rate-limit": "^1.0.1",
     "json5": "^0.4.0",
     "phantomjs": "^1.9.18",
+    "promise-retryer": "0.0.1",
     "random-js": "^1.0.8",
     "request": "^2.65.0",
     "spooky": "^0.2.5",
-    "strip-ansi": "^3.0.0",
     "weighted": "^0.3.0",
     "winston": "^2.1.1"
   }

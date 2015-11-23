@@ -1,190 +1,85 @@
-var fs = require('fs');
-var casper = require("casper").create();
+#!/usr/bin/env node
 
-function logMessage(msg, metadata) {
+var winston = require('winston');
+var Promise = require('bluebird');
 
-	var line = {
-		"level": "info",
-		"message": msg,
-		"timestamp": new Date().toISOString()
-	};
+var login = require('./lib/login');
+var purchase = require('./lib/purchase');
+var ae = require('./lib/aliexpress');
 
-	if (typeof metadata !== 'undefined') {
-		for (var key in metadata) {
-			line[key] = metadata[key];
-		}
-	}
+var winston = require('winston');
 
-	casper.echo(msg);
-	fs.write('log/consumerism.log', JSON.stringify(line) + "\n", 'w+');
+winston.add(winston.transports.File, { filename: 'log/consumerism.log', colorize: false });
 
-}
+var getRandomProduct = function() {
 
-function die(msg) {
-	logMessage(msg, {level: "error"});
-	casper.die(msg);
-}
+    return new Promise(function(resolve, reject) {
 
-if (typeof casper.cli.options.url === 'undefined') {
-	die("URL not passed. Please pass the product URL with --url=http://www.example.com/");
-}
+        var category;
 
-var productUrl = casper.cli.options.url;
+        category = ae.getRandomCategory();
 
-var data = fs.read('./data/cookies.txt');
-phantom.cookies = JSON.parse(data);
+        winston.log('info', 'selecting random category', category);
 
-var casper = require("casper").create();
-
-casper.options.viewportSize = {width: 1600, height: 950};
-
-casper.start();
-
-casper.thenOpen(productUrl, function() {
-
-	if (this.visible('span.account-unsigned')) {
-		die("Not signed-in. There is an issue with the cookies, please extract new ones.");
-	}
-
-	this.evaluate(function() {
-		document.body.bgColor = 'white';
-	});
-
-    logMessage("opened product page", {title: this.getTitle()});
-
-    this.waitForSelector('span.total-price', function() {
-
-    	var price = 0.00;
-
-	    var priceRaw = this.fetchText('span.total-price');
-	    var priceMatch = priceRaw.match(/([0-9\.])+/);
-
-	    if (priceMatch) {
-	    	price = parseFloat(priceMatch[0]);
-	    }
-
-	    logMessage('fetched initial price', {price: price.toFixed(2)});
-
-	    if (price == 0) {
-
-		    var ids = this.evaluate(function() {
-		    	
-		    	var skus = document.querySelectorAll('a.sku-value');
-
-		    	var ids = [];
-
-			    for (var i = 0; i < skus.length; i++) {
-
-			    	var element = skus[i];
-			    	ids.push(element.id);
-
-			    }
-
-			    return ids;
-
-
-		    });
-
-		    for (var i = 0; i < ids.length; i++) {
-
-		    	var id = ids[i];
-
-			    logMessage('selecting option', {sku: id});
-
-			    this.click("#" + id);
-
-			    priceRaw = this.fetchText('span.total-price');
-			    priceMatch = priceRaw.match(/([0-9\.])+/);
-
-			    if (priceMatch) {
-			    	price = parseFloat(priceMatch[0]);
-			    }
-
-	    		logMessage('updated price', {price: price.toFixed(2)});
-
-			    if (price > 0 && price <= 1.00) {
-			    	break;
-			    }
-
-		    }
-
-	    }
-
-	    if (price == 0 || price > 1.00) {
-
-	    	die("Price is out of bounds after trying all options.");
-	    	return;
-
-	    }
-
-	    var prefix = new Date().toISOString();
-
-	    var paths = {
-	    	product: "screenshots/" + prefix + "-product.jpg",
-	    	full: "screenshots/" + prefix + "-full.jpg",
-	    	thumbnail: "screenshots/" + prefix + "-thumbnail.jpg",
-	    	confirmation: "screenshots/" + prefix + "-confirmation.jpg"
-	    };
-
-	    logMessage("capturing screenshots", paths);
-
-		this.capture(paths.product, {
-	        top: 0,
-	        left: 0,
-	        width: 1600,
-	        height: 900
-	    }, {
-        	format: 'jpg',
-        	quality: 90
-    	});
-
-		this.capture(paths.full, undefined, {
-        	format: 'jpg',
-        	quality: 90
-    	});
-
-		this.captureSelector(paths.thumbnail, 'a.ui-image-viewer-thumb-frame img', {
-        	format: 'jpg',
-        	quality: 90
-    	});
-
-		logMessage("save product thumbnail URL", {url: this.getElementAttribute('a.ui-image-viewer-thumb-frame img', 'src')});
-
-		if (casper.cli.options['dry-run']) {
-
-			logMessage("dry run, completing without purchasing");
-			this.exit();
-			return;
-
-		}
-
-		logMessage("pressing buy now");
-
-	    // Press the Buy Now button
-	    this.click("#buy-now");
-
-	    this.waitForSelector("#shortcut-payment-form", function() {
-
-			logMessage("pressing pay now");
-			this.click("#shortcut-payment-btn");
-
-			this.waitForUrl(/payOnlineSuccess/, function() {
-
-				logMessage("purchase complete");
-
-				this.capture(paths.confirmation, undefined, {
-		        	format: 'jpg',
-		        	quality: 90
-		    	});
-
-		    	this.exit();
-
-			});
-
-	    });
+        ae.getRandomProduct(category).then(function(product) {
+            winston.log('info', 'selecting random product', product);
+            resolve(product);
+        });
 
     });
 
-});
+};
 
-casper.run();
+var buyRandomProduct = function(cookies) {
+
+    return new Promise(function(resolve, reject) {
+
+        getRandomProduct().then(function(product) {
+
+            purchase.purchaseProduct(product.url, cookies).then(function(price) {
+                resolve(price);
+            }).catch(function(e) {
+                reject(e);
+            });
+
+        });
+
+    });
+
+};
+
+var PromiseRetryer = require('promise-retryer')(Promise);
+
+PromiseRetryer.run({
+    delay: 1000,
+    maxRetries: 5,
+    promise: function (attempt) {
+        winston.info('Login attempt #' + attempt);
+        return login.getCredentials();
+    }
+}).then(
+    function (cookies) {
+
+        // var cookies = JSON.parse(require('fs').readFileSync('./data/cookies.txt'));
+
+        PromiseRetryer.run({
+            delay: 1000,
+            maxRetries: 5,
+            promise: function (attempt) {
+                winston.info('Purchase attempt #' + attempt);
+                return buyRandomProduct(cookies);
+            }
+        }).then(
+            function () {
+                winston.info('Purchase complete.');
+            },
+            function (error) {
+                winston.error('Failed to purchase.', error);
+            }
+        );
+
+    },
+    function (error) {
+        winston.error('Failed to login.', error);
+    }
+);
