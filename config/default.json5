@@ -4,7 +4,11 @@
 	},
 	"aliexpress": {
 		"email": "",
-		"password": ""
+		"password": "",
+		"cc": {
+			"exp_month": "MM",
+			"exp_year": "YY"
+		}
 	},
 	"port": 1337
 }

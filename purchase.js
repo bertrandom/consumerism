@@ -60,7 +60,8 @@ PromiseRetryer.run({
 }).then(
     function (cookies) {
 
-        // var cookies = JSON.parse(require('fs').readFileSync('./data/cookies.txt'));
+    	// require('fs').writeFileSync('./data/cookies.txt', JSON.stringify(cookies));
+     	// var cookies = JSON.parse(require('fs').readFileSync('./data/cookies.txt'));
 
         PromiseRetryer.run({
             delay: 1000,
